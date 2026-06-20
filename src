@@ -1,0 +1,6 @@
+api/ # Backend API endpoints
+│ │ └── filters.py # Water filter management
+│ ├── models/ # Data models
+│ │ └── device.py # IoT device model
+│ └── services/
+│ └── telemetry.py # Sensor data processing
