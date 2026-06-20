@@ -1,0 +1,2 @@
+└── workflows/
+│ └── ci.yml # GitHub Actions CI pipeline
